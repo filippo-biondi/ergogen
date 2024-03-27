@@ -1,5 +1,6 @@
 module.exports = {
     alps: require('./alps'),
+    bat: require('./bat'),
     button: require('./button'),
     choc: require('./choc'),
     chocmini: require('./chocmini'),
